@@ -1,0 +1,15 @@
+# Dependencias (LA MÁS IMPORTANTE, no subir esto)
+node_modules/
+
+# Archivos compilados (la carpeta donde se genera el JavaScript)
+dist/
+build/
+out/
+
+# Archivos de configuración personales o temporales
+.env
+.DS_Store
+Thumbs.db
+
+# Si tienes archivos de Word o PDF que no quieres en GitHub
+*.pdf
